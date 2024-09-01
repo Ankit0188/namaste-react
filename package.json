@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by me",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit0188/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Ankit Poddar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit0188/namaste-react/issues"
+  },
+  "homepage": "https://github.com/Ankit0188/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
